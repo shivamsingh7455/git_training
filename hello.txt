@@ -1,8 +1,5 @@
 Hello Ashish
 Registration
 Login
-<<<<<<< HEAD
 Singh
-=======
 Shivam
->>>>>>> 74dc1644b06cbda45ad521c686aa9b7d1b395e44
